@@ -1,0 +1,6 @@
+# pip install streamlit
+# pip install scikit-learn
+# pip install transformers
+# pip install datasets
+
+# install these before executing in colab
